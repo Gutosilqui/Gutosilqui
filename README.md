@@ -8,7 +8,7 @@
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpybWJidmpneWZscGc0c3lxa2Fuc2FzZHVtMjd1YXJjMnQ1cjdpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.webp"  />
-  <img height="200" src="https://media.tenor.com/QTbcrC893SIAAAAi/solaire.gif" />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2R3azFsaWNidzFhc2FscTNvamNpODVuNTI4NXhuaTZtYmplZXZ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.webp" />
   
 </div>
 
