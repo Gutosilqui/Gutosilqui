@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with work.
 - 💬 Ask me about anything.
 - 📫 How to reach me: gutosilvadeaquino@gmail.com
-- 😄 Pronouns: he/his
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpybWJidmpneWZscGc0c3lxa2Fuc2FzZHVtMjd1YXJjMnQ1cjdpZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JKCSoloVTGjmWQ/giphy.webp"  />
