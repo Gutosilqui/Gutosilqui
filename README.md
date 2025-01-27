@@ -1,8 +1,6 @@
 ## Hi there! My name is José augusto👋
 
-- 🌱 I’m currently learning C language.
-- 🤔 I’m looking for help with work.
-- 💬 Ask me about anything.
+- 🌱 I’m currently learning DEVOPS.
 - 📫 How to reach me: gutosilvadeaquino@gmail.com
 
 <div align="center">
